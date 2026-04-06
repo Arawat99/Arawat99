@@ -1,73 +1,74 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+
+  <h1>Hi, I'm Chris 👋</h1>
+
+  <p>CS Student &nbsp;·&nbsp; AI/ML Engineer in Progress &nbsp;·&nbsp; Full-Stack Builder</p>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/chris-joshua-olaguera-69a680309/)
+  [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=flat-square)](https://huggingface.co/Arawat99)
+  [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&logoColor=black&style=flat-square)](https://www.hackerrank.com/profile/ArawatAt477_99)
+  [![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?logo=datacamp&logoColor=black&style=flat-square)](https://www.datacamp.com/portfolio/chrisjoshuaolaguera)
 </div>
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+## ⚡ About
 
-###
+| | |
+|---|---|
+| 🎓 **Studying** | 4th Year Computer Science |
+| 🤖 **Focus** | Artificial Intelligence · Full Stack Development |
+| 🛠 **Building** | AI-powered full-stack applications |
+| 📚 **Learning** | AI Engineering · Data Science · Software Development |
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-</div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+## 🚀 Projects
 
-###
+### 🧠 AG News Classifier
+Fine-tuned **DistilBERT** for 4-class news topic classification using NLP fine-tuning techniques.
+
+`PyTorch` `Keras` `Transformers` `NLP`
+
+→ [PyTorch Notebook](https://github.com/Arawat99/notebook/blob/main/AG_News_Classifier.ipynb) &nbsp; [Keras Notebook](https://github.com/Arawat99/notebook/blob/main/Keras_AG_News_Classifier.ipynb) &nbsp; [Model on Hugging Face](https://huggingface.co/Arawat99/sentiment-classification-ag-news-distilbert-base-uncased-finetuned)
+
+---
+
+### 🍽️ Platemate
+AI-powered meal planning app with personalized recommendations.
+
+`React Native` `Expo` `Gemini` `Supabase` `Recommendation Systems` `Nodejs` `Prisma `
+
+→ [Frontend Repo](https://github.com/AutoMealPlan/Platemate)  
+→ [Backend and AI Repo](https://github.com/AutoMealPlan/Platemate_Server)
+
+---
+
+### 🖼️ CIFAR-10 Classifier
+Custom CNN trained from scratch on 60K images — exploring computer vision fundamentals.
+
+`PyTorch` `CNNs` `Computer Vision`
+
+→ [Notebook](https://github.com/Arawat99/notebook/blob/main/Cifar10_Multi_Image_Classification_Pytorch.ipynb)
+
+---
+
+## 🛠 Tech Stack
+
+**Languages** &nbsp; `Python` `JavaScript` `TypeScript` `Java`
+
+**AI / ML** &nbsp; `PyTorch` `TensorFlow` `Hugging Face` `Keras` `Scikit-Learn `
+
+**Backend & Infra** &nbsp; `FastAPI` `Node.js` `Docker` `MongoDB` `MySQL`
+
+---
+
+[![My Skills](https://skillicons.dev/icons?i=python,ts,java,javascript,pytorch,react,fastapi,docker,supabase,mongodb,nodejs,prisma)](https://skillicons.dev)
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Arawat99&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Arawat99&theme=dark&border_radius=5&hide_border=true" height="180"/>
 </div>
-
-###
