@@ -84,11 +84,11 @@ CNN image classifier trained from scratch on the CIFAR-10 dataset to explore fun
 
 ### AI / Machine Learning
 
-`PyTorch` `TensorFlow` `Keras` `Scikit-Learn` `Hugging Face` `Transformers`
+`PyTorch` `Keras` `Scikit-Learn` `Hugging Face` `Transformers`
 
 ### AI Engineering
 
-`LLMs` `RAG` `AI Agents` `MCP` `Prompt Engineering` `Embeddings` `Vector Search`
+`LLMs` `AI Agents` `MCP` `Prompt Engineering` `Embeddings`
 
 ### Backend & Infrastructure
 
